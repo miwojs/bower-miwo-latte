@@ -1,0 +1,17 @@
+{
+	"name": "miwo-latte",
+	"description": "Miwo latte component",
+	"version": "0.0.1",
+	"authors": [
+		"Dusan Kmet <morlokdk@gmail.com>"
+	],
+	"main": [
+		"js/miwo-latte.js",
+		"js/miwo-latte.min.js"
+	],
+	"ignore": [
+	],
+	"dependencies": {
+		"miwo": "latest"
+	}
+}
