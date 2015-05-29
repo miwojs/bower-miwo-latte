@@ -1,7 +1,7 @@
 {
 	"name": "miwo-latte",
 	"description": "Miwo latte component",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"authors": [
 		"Dusan Kmet <morlokdk@gmail.com>"
 	],
